@@ -1,0 +1,103 @@
+﻿Name,Link,Purchased,Status,Type
+CLI Murder Mystery,https://github.com/CCollis-McCann/ManchesterCodes/tree/master/cli-mystery,No,CLI,Game
+Duskers,https://store.steampowered.com/app/254320/Duskers/,No,CLI,Game
+WarGames,https://overthewire.org/wargames/,No,CLI,Game
+Ruby Warrior,https://github.com/ryanb/ruby-warrior,No,Ruby,Game
+SQL Murder Mystery,https://mystery.knightlab.com,No,SQL,Game
+Elevator Saga,https://play.elevatorsaga.com,No,JavaScript,Game
+Untrusted,https://store.steampowered.com/app/1502660/Untrusted/,No,JavaScript,Game
+Screeps,https://screeps.com,No,JavaScript,Game
+Adventure Land,https://adventure.land,No,JavaScript,Game
+Flexbox Defense,http://www.flexboxdefense.com,No,HTML/CSS,Game
+Zacatronics,http://www.zachtronics.com,No,Programming,Game
+Tomorrow Corporation,http://tomorrowcorporation.com,No,Programming,Game
+CSS Diner,https://flukeout.github.io,No,HTML/CSS,Game
+Tech Talk: Command Line Tips & Tricks,,No,CLI,Video
+Tech Talk: Beginner git Tips and Tricks,,No,CLI,Video
+Tech Talk: Problem Solving Using PEDAC,,No,Programming,Video
+Tech Talk: Debugging with Pry,https://youtu.be/bC0RqLlQUvY,No,Ruby,Video
+Tech Talk: Problem Solved! Using Logic Programming to Find Answers,https://youtu.be/f5Bi6_GOIB8,No,Programming,Video
+Tech Talk: Multi-Threading and Ruby's Thread Class,https://launchschool.com/gists/cea2ba1c,No,Ruby,Video
+Tech Talk: Working With Files and Directories in Ruby,https://launchschool.com/gists/e514e62e,No,Ruby,Video
+Tech Talk: Seeing Metaprogramming and Lambda Function Patterns in Ruby,https://youtu.be/poAxCd7Z0Kg,No,Ruby,Video
+Think Like a Programmer: An Introduction to Creative Problem Solving,https://www.amazon.co.uk/gp/product/1593274246/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1,Yes,Programming,Book
+Programming Ruby 1.9 & 2.0: The Pragmatic Programmers' Guide (The Facets of Ruby),https://www.amazon.co.uk/gp/product/1937785491/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1,Yes,Ruby,Book
+The Well-Grounded Rubyist,https://www.amazon.co.uk/gp/product/1617295213/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1,Yes,Ruby,Book
+Learn to Program: Using Ruby (Facets of Ruby),https://www.amazon.co.uk/gp/product/1934356360/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1,Yes,Ruby,Book
+Pro Git,https://www.amazon.co.uk/gp/product/1484200772/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1,Yes,CLI,Book
+How Linux Works: What Every Superuser Should Know,https://www.amazon.co.uk/gp/product/1593275676/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1,Yes,CLI,Book
+"The Linux Command Line, 2nd Edition: A Complete Introduction",https://www.amazon.co.uk/gp/product/1593279523/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1,Yes,CLI,Book
+Practical Object-Oriented Design in Ruby: An Agile Primer,https://www.amazon.co.uk/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/B00M0NURNU/ref=sr_1_2?dchild=1&keywords=*+Practical+Object-Oriented+Design+in+Ruby%2C+by+Sandi+Metz&qid=1613858784&s=books&sr=1-2,No,Ruby,Book
+Eloquent Ruby,https://www.amazon.co.uk/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/ref=sr_1_1?dchild=1&keywords=Eloquent+Ruby&qid=1613858937&s=books&sr=1-1,No,Ruby,Book
+Mastering Regular Expressions,https://www.amazon.co.uk/Mastering-Regular-Expressions-Jeffrey-Friedl/dp/0596528124/ref=sr_1_1?dchild=1&keywords=Mastering+Regular+Expressions&qid=1613859092&s=books&sr=1-1,No,RegEx,Book
+Tech Talk: Putting Regular Expressions to Work,https://launchschool.com/gists/a4acea85,No,RegEx,Video
+High Performance Browser Networking,https://www.amazon.co.uk/High-Performance-Browser-Networking-performance/dp/1449344763/ref=sr_1_1?dchild=1&keywords=High+Performance+Browser+Networking&qid=1613859449&s=books&sr=1-1,No,Networking,Book
+The Internet explained from first principles,https://explained-from-first-principles.com/internet/,No,Networking,Website
+Web Architecture 101,https://engineering.videoblocks.com/web-architecture-101-a3224e126947,No,Networking,Website
+System Design Primer,https://github.com/donnemartin/system-design-primer,No,Networking,Website
+Tech Talk: How Prime Numbers Keep the Internet Secure,https://launchschool.com/gists/89d9128b,No,Networking,Video
+Tech Talk: My Adventures Building Maze Craze – Dissecting Problems One Step at a Time,https://launchschool.com/gists/61fb0c81,No,Networking,Video
+Tech Talk: Setting up a Web Server on Digital Ocean,https://launchschool.com/gists/79b8e672,No,Networking,Video
+Tech Talk: Intro to Distributed Systems,https://launchschool.com/gists/7003b6e8,No,Programming,Video
+Tech Talk: Intro to Client-Side Projects with Firebase,https://launchschool.com/gists/712f7c0b,No,SQL,Video
+A Smarter Way to Learn JavaScript: The new approach that uses technology to cut your effort in half,https://www.amazon.co.uk/Smarter-Way-Learn-JavaScript-technology/dp/1497408180/ref=sr_1_1?dchild=1&keywords=A+Smarter+Way+to+Learn+JavaScript&qid=1613860888&s=books&sr=1-1,No,JavaScript,Book
+JavaScript - The Definitive Guide: Master the World's Most-Used Programming Language,https://www.amazon.co.uk/JavaScript-Definitive-Guide-David-Flanagan/dp/1491952024/ref=sr_1_1?dchild=1&keywords=JavaScript%3A+The+Definitive+Guide&qid=1613861014&s=books&sr=1-1,No,JavaScript,Book
+JavaScript: The Good Parts,https://www.amazon.co.uk/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_1?dchild=1&keywords=JavaScript%3A+The+Good+Parts&qid=1613861122&s=books&sr=1-1,No,JavaScript,Book
+You Don't Know JS Yet: Get Started: 1,https://www.amazon.co.uk/You-Dont-Know-JS-Yet/dp/B084DFZ6GW/ref=sr_1_1?dchild=1&keywords=You+Don%27t+Know+JS&qid=1613861215&s=books&sr=1-1,Yes,JavaScript,Book
+You Don't Know JS Yet: Scope & Closures: 2,https://www.amazon.co.uk/You-Dont-Know-JS-Yet/dp/B086GD45ZG/ref=sr_1_2?dchild=1&keywords=You+Don%27t+Know+JS&qid=1613861215&s=books&sr=1-2,No,JavaScript,Book
+You Don't Know JS: ES6 & Beyond,https://www.amazon.co.uk/You-Dont-Know-JS-Beyond/dp/1491904240/ref=sr_1_3?dchild=1&keywords=You+Don%27t+Know+JS&qid=1613861215&s=books&sr=1-3,No,JavaScript,Book
+You Don't Know JS: this & Object Prototypes,https://www.amazon.co.uk/You-Dont-Know-JS-Prototypes/dp/1491904151/ref=sr_1_4?dchild=1&keywords=You+Don%27t+Know+JS&qid=1613861215&s=books&sr=1-4,No,JavaScript,Book
+You Don't Know JS: Types & Grammar,https://www.amazon.co.uk/You-Dont-Know-JS-Grammar/dp/1491904194/ref=sr_1_5?dchild=1&keywords=You+Don%27t+Know+JS+types&qid=1613861749&s=books&sr=1-5,No,JavaScript,Book
+You Don't Know JS: Async & Performance,https://www.amazon.co.uk/You-Dont-Know-JS-Performance/dp/1491904224/ref=sr_1_3?dchild=1&keywords=You+Don%27t+Know+JS+types&qid=1613861749&s=books&sr=1-3,No,JavaScript,Book
+"Eloquent Javascript, 3rd Edition: A Modern Introduction to Programming",https://www.amazon.co.uk/Eloquent-Javascript-3rd-Introduction-Programming/dp/1593279507/ref=sr_1_1?dchild=1&keywords=Eloquent+JavaScript&qid=1613861928&s=books&sr=1-1,No,JavaScript,Book
+The Modern JavaScript Tutorial,https://javascript.info,No,JavaScript,Website
+NodeSchool,https://nodeschool.io,No,JavaScript,Website
+Tech Talk: Intro to Functional Abstractions in JavaScript,https://launchschool.com/gists/d3342f21,No,JavaScript,Video
+Tech Talk: JavaScript Engine Internals,https://launchschool.com/gists/fd05106e,No,JavaScript,Video
+Tech Talk: A Brief Intro to React,https://launchschool.com/gists/d1d11958,No,JavaScript,Video
+Computer Science Distilled,https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020/ref=sr_1_1?dchild=1&keywords=Computer+Science+Distilled&qid=1613901448&s=books&sr=1-1,No,Programming,Book
+Computer Science Unleashed,https://code.energy/computer-science-unleashed/,No,RegEx,Book
+Grokking Algorithms: An illustrated guide for programmers and other curious people,https://www.amazon.co.uk/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=sr_1_1?dchild=1&keywords=Grokking+Algorithms&qid=1613901868&sr=8-1,No,Programming,Book
+"Cracking the Coding Interview, 6th Edition: 189 Programming Questions and Solutions",https://www.amazon.co.uk/Cracking-Coding-Interview-6th-Programming/dp/0984782850/ref=sr_1_1?dchild=1&keywords=Cracking+the+Coding+Interview&qid=1613901979&sr=8-1,Yes,Programming,Book
+"Introduction to Algorithms, Third Edition",https://www.amazon.co.uk/Introduction-Algorithms-International-Leiserson-2009-07-31/dp/B01JO45Z5M/ref=sr_1_2?dchild=1&keywords=Introduction+to+Algorithms&qid=1613902100&sr=8-2,No,Programming,Book
+Algorithms Unlocked,https://www.amazon.co.uk/Algorithms-Unlocked-Press-Thomas-Cormen/dp/0262518805/ref=sr_1_1?dchild=1&keywords=Algorithms+Unlocked&qid=1613902229&sr=8-1,No,Programming,Book
+"A Common-Sense Guide to Data Structures and Algorithms, 2e: Level Up Your Core Programming Skills",https://www.amazon.co.uk/Common-Sense-Guide-Data-Structures-Algorithms/dp/1680507222/ref=sr_1_1?dchild=1&keywords=A+Common+Sense+Guide+to+Data+Structures+and+Algorithms&qid=1613902392&sr=8-1,No,Programming,Book
+"Algorithms to Live By: The Computer Science of Human Decisions,",,No,,
+The Algorithm Design Manual (2nd ed. 2008),https://www.amazon.co.uk/Steven-Skiena-Algorithm-Design-Manual/dp/B00I61PX34/ref=sr_1_8?dchild=1&keywords=The+Algorithm+Design+Manual&qid=1613902801&sr=8-8,No,Programming,Book
+Algorithms,https://www.amazon.co.uk/Algorithms-Robert-Sedgewick/dp/032157351X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1613902935&sr=8-4,No,Programming,Book
+99 Bottles of OOP,https://sandimetz.com/99bottles,No,Ruby,Book
+"Art of Computer Programming, Volumes 1-4A Boxed Set",https://www.amazon.co.uk/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=sr_1_1?dchild=1&keywords=Art+of+Computer+Programming%2C+Volumes+1-4A+Boxed+Set&qid=1613903264&s=books&sr=1-1,No,Programming,Book
+Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture,https://www.amazon.co.uk/Inside-Machine-Introduction-Microprocessors-Architecture/dp/1593276680/ref=sr_1_1?dchild=1&keywords=Inside+the+Machine%3A+An+Illustrated+Introduction+to+Microprocessors+and+Computer+Architecture&qid=1613903410&s=books&sr=1-1,No,Programming,Book
+"Code: The Hidden Language of Computer Hardware and Software,",https://www.amazon.co.uk/Code-Language-Computer-Hardware-Software/dp/0735611319/ref=sr_1_1?dchild=1&keywords=Code%3A+The+Hidden+Language+of+Computer+Hardware+and+Software&qid=1613903509&s=books&sr=1-1,No,Programming,Book
+Design Patterns: Elements of Reusable Object-Oriented Software,https://www.amazon.co.uk/Design-patterns-elements-reusable-object-oriented/dp/0201633612/ref=sr_1_2?dchild=1&keywords=*+Design+Patterns%3A+Elements+of+Reusable+Object-Oriented+Software&qid=1613903865&s=books&sr=1-2,No,Programming,Book
+"Structure and Interpretation of Computer Programs, 2nd Edition",https://www.amazon.co.uk/Structure-Interpretation-Computer-Electrical-Engineering/dp/0262510871/ref=sr_1_1?dchild=1&keywords=*+Structure+and+Interpretation+of+Computer+Programs&qid=1613904063&s=books&sr=1-1,No,Programming,Book
+Domain-Driven Design: Tackling Complexity in the Heart of Software,https://www.amazon.co.uk/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?dchild=1&keywords=*+Domain-Driven+Design%3A+Tackling+Complexity+in+the+Heart+of+Software&qid=1613904150&s=books&sr=1-1,No,Programming,Book
+Patterns of Enterprise Application Architecture,https://www.amazon.co.uk/Enterprise-Application-Architecture-Addison-Wesley-Signature/dp/0321127420/ref=sr_1_2?dchild=1&keywords=*+Patterns+of+Enterprise+Application+Architecture&qid=1613904341&s=books&sr=1-2,No,Programming,Book
+Introduction to Computer Science,https://www.youtube.com/watch?v=nykOeWgQcHM&amp%3Blist=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA,No,Programming,Website
+Programming Abstractions,https://www.youtube.com/watch?v=kMzH3tfP6f8&list=PLFE6E58F856038C69,No,Programming,Website
+Introduction to Algorithms,https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb,No,Programming,Website
+BaseCS,https://medium.com/basecs,No,Programming,Website
+Teach Yourself Computer Science,https://teachyourselfcs.com,No,Programming,Website
+HTML and CSS: Design and Build Websites,https://www.amazon.co.uk/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_3?crid=1XZQS0FCUIY9N&dchild=1&keywords=html+and+css&qid=1613905514&s=books&sprefix=html%2Cstripbooks%2C153&sr=1-3,Yes,HTML/CSS,Book
+JavaScript and JQuery: Interactive Front–End Web Development,https://www.amazon.co.uk/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=pd_bxgy_img_2/261-3776125-9597049?_encoding=UTF8&pd_rd_i=1118531647&pd_rd_r=5e5f539e-7647-4350-9862-a184b27cfe2f&pd_rd_w=CoQQY&pd_rd_wg=YujJ0&pf_rd_p=dcf35746-0212-418b-a148-30395d107b2d&pf_rd_r=18S3E5SFHFKEN9QW48XH&psc=1&refRID=18S3E5SFHFKEN9QW48XH,Yes,JavaScript,Book
+"Tech Talk: Accessibility 101 - What is it, why does it matter and how is it implemented?",https://launchschool.com/gists/c94104a8,No,HTML/CSS,Video
+Tech Talk: CSS Flexbox vs Floats,https://launchschool.com/gists/3e880661,No,HTML/CSS,Video
+Programming Pearls,https://www.amazon.co.uk/Programming-Pearls-Joe-Bentley/dp/8177588583/ref=sr_1_1?dchild=1&keywords=Programming+Pearls&qid=1613906275&s=books&sr=1-1,No,Programming,Book
+Code Complete: A Practical Handbook of Software Construction,https://www.amazon.co.uk/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=sr_1_1?dchild=1&keywords=Code+Complete%3A+A+Practical+Handbook+of+Software+Construction&qid=1613906434&s=books&sr=1-1,No,Programming,Book
+Clean Code: A Handbook of Agile Software Craftsmanship,https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?dchild=1&keywords=Clean+Code%3A+A+Handbook+of+Agile+Software+Craftsmanship&qid=1613906593&s=books&sr=1-1,No,Programming,Book
+Clean Architecture: A Craftsman's Guide to Software Structure and Design,,No,Programming,Book
+The Clean Coder: A Code of Conduct for Professional Programmers,https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=pd_bxgy_img_3/261-3776125-9597049?_encoding=UTF8&pd_rd_i=0137081073&pd_rd_r=3b089fe1-3e73-4f49-b0b7-5cd9e2532b68&pd_rd_w=DAu0T&pd_rd_wg=S0Zga&pf_rd_p=dcf35746-0212-418b-a148-30395d107b2d&pf_rd_r=RWHB413ZTM07NW1TBPA3&psc=1&refRID=RWHB413ZTM07NW1TBPA3,No,Programming,Book
+"The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition",https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052/ref=sr_1_1?dchild=1&keywords=The+Pragmatic+Programmer%3A+your+journey+to+mastery&qid=1613906906&s=books&sr=1-1,No,Programming,Book
+Refactoring: Improving the Design of Existing Code,https://www.amazon.co.uk/Refactoring-Improving-Existing-Addison-Wesley-Technology/dp/0134757599/ref=sr_1_1?dchild=1&keywords=Refactoring%3A+Improving+the+Design+of+Existing+Code&qid=1613907005&s=books&sr=1-1,No,Programming,Book
+Tech Talk: Consistency - The Key to Success,https://launchschool.com/gists/315b509b,No,Career Growth,Video
+Tech Talk: Case Study: Improving a Distributed System Post-Incident,https://launchschool.com/gists/1e9b95d3,No,Programming,Video
+Tech Talk: An Intro to Static/Compiled Languages,https://launchschool.com/gists/0722793a,No,Programming,Video
+Tech Talk: From a small idea to a working game prototype in a week,https://launchschool.com/gists/287ed747,No,Programming,Video
+Tech Talk: Introduction to Blockchain & Decentralization,https://launchschool.com/gists/b7f12388,No,Programming,Video
+"Agile Software Development, Principles, Patterns, and Practices",https://www.amazon.co.uk/Software-Development-Principles-Patterns-Practices/dp/1292025948,No,Programming,Book
+The Productive Programmer (Theory in Practice (O'Reilly)),https://www.amazon.co.uk/Productive-Programmer-Theory-Practice-OReilly/dp/0596519788,No,Programming,Book
+Be a Better Programmer with these 45 Mathematics Courses,https://hackernoon.com/be-a-better-programmer-with-these-40-mathematics-courses-d8ca48a2f8a2,No,Programming,Website
+Math For Programmers,https://wiki.c2.com/?MathForProgrammers,No,Programming,Website
+CS50: Introduction to Computer Science,https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0,No,Programming,Website
+Practical math for frontend developers,https://scrimba.com/learn/practicalmath,No,Programming,Website
+Mathematics for Computer Science,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/,No,Programming,Website
